@@ -24,11 +24,11 @@ import {
 } from "lucide-react";
 
 const ASSETS = {
-  hero: "/manus-storage/hero-night-truck_30f68433.jpg",
-  highway: "/manus-storage/highway-dryvan_9db69b76.jpg",
-  warehouse: "/manus-storage/warehouse-trucks_0d56b009.jpeg",
-  dock: "/manus-storage/loading-dock_3bcc6631.jpg",
-  trailer: "/manus-storage/dock-trailer_0c2900df.jpg",
+  hero: "https://images.unsplash.com/photo-1736134869393-bb43683d5d28?auto=format&fit=crop&w=2400&q=80",
+  highway: "https://images.unsplash.com/photo-1720127601642-7c3a7ba88f5f?auto=format&fit=crop&w=1800&q=80",
+  warehouse: "https://images.pexels.com/photos/18468444/pexels-photo-18468444.jpeg?auto=compress&cs=tinysrgb&w=1800",
+  dock: "https://images.pexels.com/photos/5876475/pexels-photo-5876475.jpeg?auto=compress&cs=tinysrgb&w=1800",
+  trailer: "https://images.unsplash.com/photo-1717117915754-02f161b861e4?auto=format&fit=crop&w=1800&q=80",
   map: "https://d2xsxph8kpxj0f.cloudfront.net/310519663482553895/TgMMkdRNEc5uQAyfNqCxQC/5a-orange-route-map-Djo4F863H2JgPYaeuCq7RX.webp",
   steel: "https://d2xsxph8kpxj0f.cloudfront.net/310519663482553895/TgMMkdRNEc5uQAyfNqCxQC/5a-steel-panel-texture-LEHVH7SabsMSWVsViBBnuo.webp",
   dispatch: "https://d2xsxph8kpxj0f.cloudfront.net/310519663482553895/TgMMkdRNEc5uQAyfNqCxQC/5a-dispatch-dashboard-abstract-SCPDbhGaZVVm9BvTm6ZL58.webp",

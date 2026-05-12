@@ -8,11 +8,11 @@ The user explicitly prohibited AI-generated truck images. Therefore, the generat
 
 | Purpose | Storage Path | Notes |
 |---|---|---|
-| Hero night truck image | `/manus-storage/hero-night-truck_30f68433.jpg` | Real truck photography; low-key enough for white copy and orange CTA overlay. |
-| Highway dry van image | `/manus-storage/highway-dryvan_9db69b76.jpg` | Real highway freight image for gallery/service context. |
-| Warehouse fleet image | `/manus-storage/warehouse-trucks_0d56b009.jpeg` | Real trucks at warehouse for fleet/gallery. |
-| Loading dock image | `/manus-storage/loading-dock_3bcc6631.jpg` | Real loading dock/trailer imagery for gallery. |
-| Dock trailer image | `/manus-storage/dock-trailer_0c2900df.jpg` | Real dock/trailer imagery for fleet/gallery. |
+| Hero night truck image | `https://images.unsplash.com/photo-1736134869393-bb43683d5d28?auto=format&fit=crop&w=2400&q=80` | Real truck photography; deploy-safe public URL for white copy and orange CTA overlay. |
+| Highway dry van image | `https://images.unsplash.com/photo-1720127601642-7c3a7ba88f5f?auto=format&fit=crop&w=1800&q=80` | Real highway freight image for gallery/service context. |
+| Warehouse fleet image | `https://images.pexels.com/photos/18468444/pexels-photo-18468444.jpeg?auto=compress&cs=tinysrgb&w=1800` | Real truck/warehouse imagery for fleet/gallery. |
+| Loading dock image | `https://images.pexels.com/photos/5876475/pexels-photo-5876475.jpeg?auto=compress&cs=tinysrgb&w=1800` | Real loading dock/trailer imagery for gallery. |
+| Dock trailer image | `https://images.unsplash.com/photo-1717117915754-02f161b861e4?auto=format&fit=crop&w=1800&q=80` | Real road freight imagery for fleet/gallery. |
 
 ## Generated Non-Vehicle Assets
 
